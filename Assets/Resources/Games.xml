@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuizList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <elements>
+    <QuizElement>
+      <text>Tony Hawk</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Zelda</text>
+    </QuizElement>
+    <QuizElement>
+      <text>GTA</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Mario</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Uncharted</text>
+    </QuizElement>
+    <QuizElement>
+      <text>GoldenEye</text>
+    </QuizElement>
+    <QuizElement>
+      <text>BioShock</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Half-Life</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Halo</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Pac-Man</text>
+    </QuizElement>
+  </elements>
+</QuizList>

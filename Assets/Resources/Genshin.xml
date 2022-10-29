@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuizList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <elements>
+    <QuizElement>
+      <text>Xiao</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Diluc</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Zhongli</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Hutao</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Lisa</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Ganyu</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Yelan</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Tartaglia</text>
+    </QuizElement>
+    <QuizElement>
+      <text>Ningguang</text>
+    </QuizElement>
+  </elements>
+</QuizList>
